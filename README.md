@@ -4,7 +4,7 @@
 [image2]: https://github.com/natsci-droid/Udacity_DS_P2_Disaster_Response/blob/main/figs/image2.png "App with text classified"
 
 ### Introduction
-This code is for Udacity's Disaster Response Project, under the [Data Science Nanodegree](https://www.udacity.com/course/data-scientist-nanodegree--nd025). It analyses real disaster message data from Figure Eight to build a classification model.
+This code is for Udacity's Disaster Response Project, under the [Data Science Nanodegree](https://www.udacity.com/course/data-scientist-nanodegree--nd025). It analyses real disaster message data from [Figure Eight](https://www.figure-eight.com/) to build a classification model.
 
 There are 3 python scripts:
 * process.data.py processes the data from csv files into a single sql database, with text messages cleaned ready for classification.
