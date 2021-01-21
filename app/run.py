@@ -55,7 +55,6 @@ def index():
         {
             'data': [
                 Pie(
-                    name=genre_names,
                     values=genre_counts,
                     labels=genre_names
                 )
